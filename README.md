@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=haowardd)](https://git.io/streak-stats)
 
 <!--
 **NisharnSP/NisharnSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
